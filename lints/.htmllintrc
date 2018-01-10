@@ -1,0 +1,15 @@
+{
+	"line-end-style": false,
+	"attr-bans": [],
+	"attr-no-dup": true,
+	"attr-no-unsafe-char": false,
+	"attr-quote-style": "quoted",
+	"doctype-first": false,
+	"id-class-style": "none",
+	"id-no-dup": true,
+	"indent-style": false,
+	"indent-width": 0,
+	"tag-bans": [],
+	"tag-name-lowercase": true,
+	"tag-name-match": true
+}
